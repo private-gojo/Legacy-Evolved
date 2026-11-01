@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="210dp"
+    android:padding="16dp"
+    android:orientation="vertical"
+    android:gravity="bottom|center|left"
+    android:background="@color/blue">
+
+    <ImageView
+        android:layout_marginTop="10dp"
+		android:orientation="vertical"
+		android:layout_width="130dp"
+		android:layout_height="130dp"
+		android:layout_gravity="center"
+        android:src="@drawable/premium1"/>
+
+    <TextView
+        android:textAppearance="?android:textAppearanceSmall"
+        android:textStyle="bold"
+        android:textColor="#FFEB3B"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+		android:layout_marginTop="-10dp"
+        android:layout_gravity="center"
+        android:textSize="16sp"
+        android:text="Power-on VPN Extra"/>
+
+    <TextView
+        android:id="@+id/nav_headerAppVersion"
+        android:textAppearance="?android:textAppearanceSmall"
+        android:textColor="#FFEB3B"
+        android:textStyle="bold"
+		android:textSize="14sp"
+		android:layout_marginTop="5dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="Unknown"/>
+
+</LinearLayout>
+
+

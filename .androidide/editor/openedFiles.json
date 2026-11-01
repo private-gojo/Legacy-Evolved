@@ -1,0 +1,50 @@
+{
+  "allFiles": [
+    {
+      "file": "/storage/emulated/0/Download/Power-on VPN 1/Power-on VPN/Power-on VPN SRC/app/src/main/java/com/csv/vpn/util/Utils.java",
+      "selection": {
+        "end": {
+          "column": 0,
+          "index": 0,
+          "line": 0
+        },
+        "start": {
+          "column": 0,
+          "index": 0,
+          "line": 0
+        }
+      }
+    },
+    {
+      "file": "/storage/emulated/0/Download/Power-on VPN 1/Power-on VPN/Power-on VPN SRC/app/src/main/java/com/csv/vpn/util/ConfigUpdate.java",
+      "selection": {
+        "end": {
+          "column": 0,
+          "index": 0,
+          "line": 0
+        },
+        "start": {
+          "column": 0,
+          "index": 0,
+          "line": 0
+        }
+      }
+    },
+    {
+      "file": "/storage/emulated/0/Download/Power-on VPN 1/Power-on VPN/Power-on VPN SRC/app/build.gradle",
+      "selection": {
+        "end": {
+          "column": 0,
+          "index": 0,
+          "line": 0
+        },
+        "start": {
+          "column": 0,
+          "index": 0,
+          "line": 0
+        }
+      }
+    }
+  ],
+  "selectedFile": "/storage/emulated/0/Download/Power-on VPN 1/Power-on VPN/Power-on VPN SRC/app/build.gradle"
+}

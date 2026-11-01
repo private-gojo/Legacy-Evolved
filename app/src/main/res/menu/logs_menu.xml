@@ -1,0 +1,12 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+	xmlns:app="http://schemas.android.com/apk/res-auto">
+
+	<item
+		android:id="@+id/miLimparConfig"
+		android:title="Restaural aos Padro"/>
+
+	<item
+		android:id="@+id/miExit"
+		android:title="Exit app"/>
+	
+</menu>

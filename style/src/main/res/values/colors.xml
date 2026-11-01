@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	
+	<color name="gray_light">#DEDEDE</color>
+	<color name="blue">#FF303A53</color>
+	<color name="blue_light">#FF303A53</color>
+	<color name="gray">#808080</color>
+	<color name="black_light">#ffffff</color>
+	<color name="white">#ffffff</color>
+	<color name="red">#FD1C0D</color>
+	<color name="yellow">#EEFD00</color>
+	<color name="green">#04D000</color>
+	
+	<color name="colorPrimary">#FF303A53</color>
+	<color name="colorPrimaryDark">#ffffff</color>
+	<!--endColor-->
+	<color name="colorSecondary">#FF303A53</color>
+	<color name="colorAccent">#ffffff</color>
+	
+	<color name="textColorPrimary">#ff0000</color>
+	<color name="textColorSecondary">#f00f00</color>
+	<color name="colorTextEnabled">#ff0000</color>
+	<color name="colorTextDisabled">#f00000</color>
+	
+	<color name="colorText">#000000</color>
+	<color name="colorPrimaryBackground">#ffffff</color>
+	<color name="colorSecondaryBackground">#FF303A53</color>
+	<color name="harlie_color2">#f4511d</color>
+    <color name="harlie_color">#f4511d</color>
+	<color name="grey_800">#ffffff</color>
+    <color name="grey_900">#99CCFF</color>
+	<color name="color_disconnected">#eefd00</color>
+	<color name="color_connected">#f4511d</color>
+	<color name="card_bg">#011A39</color>
+
+	<color name="h_c2">#FFEB3B</color>
+	<color name="h_c">#FFEB3B</color>
+	
+</resources>
